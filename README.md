@@ -1,4 +1,4 @@
-ReflectionL
+Reflection:
 
 I use rigorous testing and validation procedures to make sure my code, program, or software is secure and functioning. I convert requirements straight into unit tests and verify that every essential feature—including edge cases—functions as intended. In order to increase my trust in correctness, I additionally use code coverage techniques to make sure that most logic routes are being exercised. I strive for high coverage percentages. Coverage identifies untested areas so I can add more cases, but it does not ensure quality. In order to lower risks, I use secure coding techniques like input sanitization and safe error reporting in addition to functional testing, enforcing validation rules and handling exceptions in an understandable manner.
 
